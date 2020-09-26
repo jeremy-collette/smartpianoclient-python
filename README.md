@@ -22,6 +22,8 @@ Please note that this project is provided "as is", without warranty of any kind,
   * A MIDI file to play
 
 ## Running the client
+**NOTE: If you have a "Serial Monitor" connected to the Arduino smartpiano server, make sure you close it before you try to run the smartpiano client. Otherwise the client will not be able to connect to the Arduino using the serial port.**
+
 Once you have an Arduino running the smartpiano server code, you can connect to it using the smartpiano Python client to play a song:
 1. Navigate to the "smartpianoclient" folder in your favorite terminal.
 2. Install the required dependencies:
