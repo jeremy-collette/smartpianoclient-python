@@ -14,7 +14,7 @@ Please note that this project is provided "as is", without warranty of any kind,
 
 ## Requirements
 ### Hardware
-  * An Arduino running a [smartpiano server](https://github.com/jeremy-collette/smartpiano).
+  * An Arduino hosting a [smartpiano server](https://github.com/jeremy-collette/smartpiano).
 
 ### Software
   * Python3 (with pip installed) to run the smartpiano Python client code
