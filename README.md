@@ -12,6 +12,15 @@ The smartpiano Python client is released as free software under the MIT license.
 ## Disclaimer of Warranty
 Please note that this project is provided "as is", without warranty of any kind, either expressed or implied. If you choose to use the source code or software provided as part of this project, or choose to follow the instructions provided (here or anywhere else in the project) to assemble a smartpiano server (or any other device), please note that you are doing this at your own risk. Any instructions provided may be inaccurate or incomplete, or may be inapplicable to your situtation.
 
+## Requirements
+### Hardware
+  * An Arduino running a [smartpiano server](https://github.com/jeremy-collette/smartpiano).
+
+### Software
+  * Python3 (with pip installed) to run the smartpiano Python client code
+    - PyCharm is recommended for editing the smartpiano Python client code
+  * A MIDI file to play
+
 ## Running the client
 Once you have an Arduino running the smartpiano server code, you can connect to it using the smartpiano Python client to play a song:
 1. Navigate to the "smartpianoclient" folder in your favorite terminal.
