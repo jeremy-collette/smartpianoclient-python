@@ -1,12 +1,17 @@
 #!/usr/bin/python
 
+# smartpiano Python Client
+# Copyright (c) Jeremy Collette 2020.
+# This software is released under the MIT license.
+# See the 'LICENSE' file for more information.
+
 import sys
 from smartpianofactory import SmartPianoFactory
 
 if __name__ != "__main__":
     sys.exit(0)
 
-print("SmartPiano Python Client")
+print("SmartPiano Python Client v0.1")
 print("----------------------------------------")
 print("Copyright (c) 2020 Jeremy Collette.\n")
 
