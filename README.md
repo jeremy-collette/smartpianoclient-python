@@ -1,5 +1,9 @@
 # smartpianoclient-python
 
+**NOTE: Please note this project is still in alpha phase. Some features may be incomplete and/or may not meet quality standards. Show your support by reporting and/or fixing bugs.**
+
+**NOTE: This repository contains the smartpiano Python _client_. If you're looking for the smartpiano server Arduino codebase, please see the [smartpiano](https://github.com/jeremy-collette/smartpiano) repository.**
+
 smartpiano is a free & open-source project that lights up keys on a piano or digital keyboard to play a selected MIDI song. This is achieved using a PC running a smartpiano client, an Arduino running the smartpiano server, and a strip of LEDs which are placed on the instrument. This repository contains the source code for the Python smartpiano client.
 
 ## License
