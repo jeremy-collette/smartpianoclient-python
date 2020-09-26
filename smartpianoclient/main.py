@@ -11,7 +11,7 @@ from smartpianofactory import SmartPianoFactory
 if __name__ != "__main__":
     sys.exit(0)
 
-print("SmartPiano Python Client v0.1")
+print("smartpiano Python Client v0.1")
 print("----------------------------------------")
 print("Copyright (c) 2020 Jeremy Collette.\n")
 
