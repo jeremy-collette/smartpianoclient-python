@@ -28,7 +28,7 @@ Once you have an Arduino running the smartpiano server code, you can connect to 
 1. Navigate to the "smartpianoclient" folder in your favorite terminal.
 2. Install the required dependencies:
 ```sh
-pip3 install serial==0.0.97
+pip3 install pyserial==3.4
 pip3 install mido==1.2.9
 ```
 3. Run the client with no arguments to see available options:
